@@ -5,6 +5,7 @@
 - [ ] Title
 - [ ] Icon (256x256)
 - [ ] Short Description (280 characters)
+- [ ] Printable Character Sheet
 
 ## Nice-to-haves
 
@@ -14,4 +15,4 @@
 ## Streamer Support
 
 - [ ] Roll20 Character Sheet
-- [ ] Overlays (uhh.. specs TBD)
+- [ ] Overlays (1920x1080, transparent background)
