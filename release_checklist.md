@@ -19,7 +19,7 @@ So, you're releasing a game? What do you need? What should you have? Here's some
 - [ ] Digital storefront (see *Digital Store Support* below for more details)
 - [ ] A plan for visiting Cons (see *Con Support* below)
 - [ ] Press Kit (see below)
-- [ ] Printable Character Sheet
+- [ ] Printable Character Sheet(s)
 
 ## Digital Store Support
 
@@ -29,6 +29,7 @@ So, you're releasing a game? What do you need? What should you have? Here's some
 ## Con Support
 
 - [ ] Printed versions of game
+- [ ] Printed character sheets (don't forget pre-gen characters)
 - [ ] Method of accepting payment at cons (cash-only is ok – bring change; credit options are better)
 - [ ] Business Cards
 - [ ] Table Standees (optional)
