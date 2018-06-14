@@ -6,24 +6,25 @@ So, you're releasing a game? What do you need? What should you have? Here's some
 
 *Note: ashcans, pre-release and/or early-access models will definitely need to adapt this list*
 
-## Must-haves
+## Core
 
-- [ ] A product to release
+- [ ] A product to release:
+  - [ ] Title
+  - [ ] Logo (256x256)
+  - [ ] Short Description (250 chars; usually displayed with title, so avoid repeating title)
+  - [ ] Detailed Description (2-3 paragraphs)
+  - [ ] Tags
+  - [ ] Screenshots / Sample images
+  - [ ] Price
 - [ ] Digital storefront (see *Digital Store Support* below for more details)
 - [ ] A plan for visiting Cons (see *Con Support* below)
 - [ ] Press Kit (see below)
+- [ ] Printable Character Sheet
 
 ## Digital Store Support
 
 - [ ] Storefront that can take payments, deliver digital goods, and notify customers of updates
 - [ ] Storefront that takes payments, and can deliver print-on-demand goods (optional)
-- For each product:
-  - [ ] Title
-  - [ ] Logo
-  - [ ] Description
-  - [ ] Tags
-  - [ ] Screenshots / Sample images
-  - [ ] Price
 
 ## Con Support
 
@@ -38,7 +39,7 @@ So, you're releasing a game? What do you need? What should you have? Here's some
 ## Streamer Support
 
 - [ ] Roll20 Character Sheet
-- [ ] Streaming Overlays
+- [ ] Overlays (1920x1080, transparent background)
 
 ## Press Kit
 
