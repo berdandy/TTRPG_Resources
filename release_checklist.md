@@ -4,10 +4,11 @@ So, you're releasing a game? What do you need? What should you have? Here's some
 
 *This is a live document, and as is the nature of just about everything in the RPG world, rules are never truly complete until a player or GM modify them at least a little bit.*
 
+*Note: ashcans, pre-release and/or early-access models will definitely need to adapt this list*
+
 ## Must-haves
 
 - [ ] A product to release
-  *Note: ashcans, pre-release and/or early-access models will definitely need to adapt this list*
 - [ ] Digital storefront (see *Digital Store Support* below for more details)
 - [ ] A plan for visiting Cons (see *Con Support* below)
 - [ ] Press Kit (see below)
